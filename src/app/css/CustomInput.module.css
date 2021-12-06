@@ -1,0 +1,12 @@
+.input .input-flex:last-child {
+  margin-top: 10px;
+}
+.input-flex {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.input-flex input {
+  width: 80px !important;
+  margin-left: 10px;
+}
